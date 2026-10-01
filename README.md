@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=vardhan-U)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vardhan-U&theme=dracula)](https://git.io/streak-stats)
