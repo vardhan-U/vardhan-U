@@ -1,2 +1,2 @@
 
-[![GitHub Streak](https://demolab.com)](https://git.io)
+![GitHub Streak](https://demolab.com)
