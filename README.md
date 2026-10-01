@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+[![GitHub Streak](https://demolab.com)](https://git.io)
 <!--
 **vardhan-U/vardhan-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
